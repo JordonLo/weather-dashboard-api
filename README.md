@@ -7,9 +7,10 @@ to somewhere and they want to figure out the weather forecast for the week
 ## Table of Contents (Optional)
 
 - Bootstrap
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- Installation
+- User Story/Acceptance Criteria
+- License
+- Links/Screenshot
 
 ## Installation
 
@@ -21,7 +22,7 @@ AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 
-## Acceptance
+## Acceptance Criteria
 
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
@@ -41,4 +42,4 @@ https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API 
 
 Refer to the project license
 
-##Deployed links/Screenshot
+## Deployed links/Screenshot
