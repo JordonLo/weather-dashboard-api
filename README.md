@@ -45,3 +45,7 @@ Refer to the project license
 ## Deployed links/Screenshot
 
 https://github.com/JordonLo/weather-dashboard-api
+https://jordonlo.github.io/weather-dashboard-api/
+
+
+![Screenshot_20221219_110337](https://user-images.githubusercontent.com/113495052/208604026-e6fbe4e9-fd44-47b6-bfb9-f1c77dfb2944.png)
