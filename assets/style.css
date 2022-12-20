@@ -1,3 +1,35 @@
-.navbar-brand {
+:root {
+    --blue: #0442b5;
+    --darkblue: #0b139e;
+    --white: white;
+  }
+  .navbar{
     text-align: center;
-}
+  }
+  .custom-navbar {
+    background-color: var(--darkblue);
+  }
+  .custom-btn {
+    background-color: var(--blue);
+    color: white;
+    margin: 5px;
+  }
+  .day-card{
+    background-color: var(--darkblue);
+    color: var(--blue);
+    margin: 5px;
+    padding: 1%;
+    font-size: small;
+  }
+  .city-btn {
+    background-color: var(--blue);
+    color: var(--blue);
+    margin: 5px;
+  }
+  .custom-row {
+    margin: 10px;
+  }
+  .custom-btn:hover {
+    background-color: var(--darkblue);
+    color: var(--blue);
+  }   
